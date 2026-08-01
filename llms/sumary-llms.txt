@@ -1,0 +1,28 @@
+# Sumary
+
+> Sumary is a Denmark-based fintech building an AI-native workflow engine for finance and accounting teams. Its platform layers autonomous accounting agents, anomaly detection, and on-demand reporting over a company's existing accounting systems — automating reconciliations, validating transactions to catch errors and potential fraud, and generating management reports, margin analyses, and cost breakdowns for bookkeepers, controllers, CFOs, and finance leaders.
+
+Sumary raised a $4.2M (27M DKK) pre-seed round led by byFounders with participation from Partech and Tenity plus angel investors. It positions itself as an intelligence layer that integrates with existing accounting systems without migration. As of this profile, Sumary publishes a marketing and product site plus a hosted application, but no public API, developer portal, SDK, or OpenAPI surface has been found.
+
+## Product
+- [Accounting Agents](https://sumary.com/features/accounting-agents): Automates reconciliations, variance explanations, and issue flagging.
+- [Anomaly Detection](https://sumary.com/features/anomaly-detection): Validates transactions and identifies errors or potential fraud across line items.
+- [Reporting & Insights](https://sumary.com/features/reporting-insights): Generates management reports, margin analyses, and cost breakdowns on demand.
+- [Solutions — Accounting Firms](https://sumary.com/solutions/accounting-firms): Positioning for accounting firms.
+
+## Company
+- [Homepage](https://sumary.com/)
+- [News](https://sumary.com/news)
+- [Pre-seed round announcement](https://sumary.com/news/pre-seed-round)
+- [Book a demo](https://sumary.com/book-demo)
+- [Sign in](https://app.sumary.com/auth/signin)
+
+## Trust & Legal
+- [Trust / Security center](https://trust.sumary.com/): States SOC 2 Type II, ISO 27001, and GDPR compliance (some pending).
+- [Privacy Policy](https://sumary.com/pages/privacy-policy)
+- [Terms of Service](https://sumary.com/pages/terms-of-service)
+- [Cookie Policy](https://sumary.com/pages/cookie-policy)
+
+## Notes
+- No public API, OpenAPI/Swagger, AsyncAPI, MCP server, SDK/package, or developer documentation has been located.
+- Security contact published via DNS CAA iodef: security@sumary.com.
